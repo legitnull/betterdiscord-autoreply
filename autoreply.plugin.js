@@ -22,7 +22,7 @@ const config = {
 };
 
 
- module.exports = class Example{
+ module.exports = class {
      
     load() { }
     start() {

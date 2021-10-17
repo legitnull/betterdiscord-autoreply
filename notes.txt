@@ -9,3 +9,16 @@ https://github.com/Fraserbc/BetterDiscord-Embeds
 https://gist.github.com/hepteract/8d9199a6a154dd32a1c4ced97de76043
 
 
+		// Send the message
+		MessageQueue.enqueue({
+			type: 0,
+			message: {
+				channelId: channelID,
+				content: '',
+				tts: false,
+				nonce: msg.id,
+				embed: embed
+			}
+		}, r => {
+			return;
+		});
