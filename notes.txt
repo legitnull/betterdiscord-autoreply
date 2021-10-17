@@ -1,0 +1,11 @@
+https://github.com/legitnull/betterdiscord-autoreply
+
+https://github.com/BetterDiscord/BetterDiscord/wiki/Creating-Plugins
+
+https://gist.github.com/samogot/736dc6289c9fdb9d1f12aba253d530f5
+
+https://github.com/Fraserbc/BetterDiscord-Embeds
+
+https://gist.github.com/hepteract/8d9199a6a154dd32a1c4ced97de76043
+
+
